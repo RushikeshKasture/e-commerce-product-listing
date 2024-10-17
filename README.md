@@ -16,6 +16,11 @@ The project sets up a GraphQL server using Apollo Server with mocked data for a 
 
 The mocked data is located in a separate file `data.js`. The server is configured to handle GraphQL requests and can be deployed using Vercel.
 
+### Vercel Deployment
+
+- **Frontend**: [Displays the list of products.](https://ecommerce-product-listing-fe.vercel.app/)
+- **Backend**: [Displays detailed information about the selected product.](https://e-commerce-product-listing-eta.vercel.app/)
+
 ## GraphQL API
 
 This project exposes the following GraphQL queries:
